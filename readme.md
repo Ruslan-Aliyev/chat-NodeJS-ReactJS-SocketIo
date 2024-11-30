@@ -8,7 +8,7 @@ Uses `socket.io`
 
 Port 5173
 
-`socket.io-client`
+Uses `socket.io-client`
 
 # Basics
 
